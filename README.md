@@ -120,7 +120,7 @@ Top revenue-generating categories:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](customer_sales/dashboard.png)
 
 ---
 
