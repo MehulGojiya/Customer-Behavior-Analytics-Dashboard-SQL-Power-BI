@@ -2,7 +2,26 @@
 
 > An end-to-end customer sales analytics project using SQL and Power BI to analyze revenue performance, customer behavior, product performance, subscription adoption, and purchasing patterns.
 
-![Dashboard Preview](Dashboard%20Images/Executive_Overview.png)
+# Customer Sales Analytics Dashboard
+
+> An end-to-end customer sales analytics project using SQL and Power BI to analyze revenue performance, customer behavior, product performance, subscription adoption, and purchasing patterns.
+
+---
+
+## 📊 Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Dashboard_Images/page1.png)
+
+### Customer Insights
+
+![Customer Insights](Dashboard_Images/page2.png)
+
+### Sales & Product Analysis
+
+![Sales & Product Analysis](Dashboard_Images/page3.png)
+
 
 ---
 
